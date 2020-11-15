@@ -1,0 +1,13 @@
+@import './roboto.css';
+
+.g-ts {
+    color: green;
+    font-family: 'Roboto', sans-serif;
+}
+
+.img {
+    background-image: url('../assets/webpack.svg');
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+}
